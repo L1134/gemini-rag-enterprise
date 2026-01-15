@@ -53,7 +53,7 @@ User → Web App → Gemini API
 
 ## 👩🏽‍💻 Author
 
-**Laura Infinity**  
+Laurier Oliveira
 AI & Cloud Engineer  
 GitHub: https://github.com/L1134  
-LinkedIn: https://www.linkedin.com/in/laura-infinity8
+LinkedIn: https://www.linkedin.com/in/laurieroliveira 
